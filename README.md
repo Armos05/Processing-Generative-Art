@@ -19,4 +19,5 @@ Some generative art in processing
 ![image](https://user-images.githubusercontent.com/40626584/141929533-d87fcf79-4413-4d91-9a00-731043a91f24.png)
 
 ## Fun with Circles
-![image](https://user-images.githubusercontent.com/40626584/182302253-b0d70382-f811-4314-99e5-166e38833724.png)
+![image](https://user-images.githubusercontent.com/40626584/182302917-338d08b6-e431-4941-b884-95c95951d49d.png)
+
