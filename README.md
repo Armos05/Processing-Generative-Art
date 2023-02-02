@@ -21,3 +21,5 @@ Some generative art in processing
 ## Fun with Circles
 ![image](https://user-images.githubusercontent.com/40626584/182302917-338d08b6-e431-4941-b884-95c95951d49d.png)
 
+## Noise in Cricles
+![image](https://user-images.githubusercontent.com/40626584/216348161-bbb9f7fa-5b93-4d35-a375-719af82acff4.png)
